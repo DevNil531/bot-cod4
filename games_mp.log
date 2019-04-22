@@ -1,0 +1,113 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:02 J;;0;$ L.Cru[i]ser $
+  0:33 J;27939e49a734fd3c34735606e27d8236;1;Prof.No0B
+  1:42 ShutdownGame:
+  1:42 ------------------------------------------------------------
+  1:42 ------------------------------------------------------------
+  1:42 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  1:43 J;27939e49a734fd3c34735606e27d8236;1;Prof.No0B
+  1:43 J;;0;$ L.Cru[i]ser $
+  1:54 Q;27939e49a734fd3c34735606e27d8236;1;Prof.No0B
+  2:54 ShutdownGame:
+  2:54 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\5\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:02 ShutdownGame:
+  0:02 ------------------------------------------------------------
+  0:02 ------------------------------------------------------------
+  0:02 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\5\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:05 ShutdownGame:
+  0:05 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\5\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\war\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\5\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:01 J;;0;$ L.Cru[i]ser $
+  0:24 J;27939e49a734fd3c34735606e27d8236;1;Prof.No0B
+  0:44 K;27939e49a734fd3c34735606e27d8236;1;axis;Prof.No0B;;0;;$ L.Cru[i]ser $;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  0:50 K;27939e49a734fd3c34735606e27d8236;1;axis;Prof.No0B;;0;;$ L.Cru[i]ser $;m40a3_mp;441;MOD_RIFLE_BULLET;torso_upper
+  1:00 K;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;;Prof.No0B;remington700_mp;441;MOD_RIFLE_BULLET;torso_lower
+  1:11 K;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;;Prof.No0B;remington700_mp;441;MOD_RIFLE_BULLET;torso_lower
+  1:23 K;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;;Prof.No0B;remington700_mp;139;MOD_MELEE;torso_lower
+  1:44 Q;27939e49a734fd3c34735606e27d8236;1;Prof.No0B
+  2:34 D;;0;allies;$ L.Cru[i]ser $;;-1;world;;none;19;MOD_FALLING;none
+  3:59 ShutdownGame:
+  3:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\5\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\5\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:01 J;;0;$ L.Cru[i]ser $
+  0:15 J;27939e49a734fd3c34735606e27d8236;1;Prof.No0B
+  0:29 K;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;;0;;$ L.Cru[i]ser $;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  0:29 J;042990f7b61f43da771b578c90f062a2;2;Some Say
+  0:35 K;042990f7b61f43da771b578c90f062a2;2;allies;Some Say;27939e49a734fd3c34735606e27d8236;1;;Prof.No0B;remington700_mp;441;MOD_HEAD_SHOT;head
+  0:41 D;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;remington700_mp;98;MOD_RIFLE_BULLET;right_leg_upper
+  0:42 K;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;;Prof.No0B;remington700_mp;441;MOD_RIFLE_BULLET;torso_upper
+  0:44 K;042990f7b61f43da771b578c90f062a2;2;allies;Some Say;27939e49a734fd3c34735606e27d8236;1;;Prof.No0B;remington700_mp;441;MOD_RIFLE_BULLET;torso_lower
+  0:50 D;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;042990f7b61f43da771b578c90f062a2;2;allies;Some Say;remington700_mp;98;MOD_RIFLE_BULLET;left_arm_upper
+  0:50 D;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;remington700_mp;98;MOD_RIFLE_BULLET;right_leg_lower
+  0:51 K;;0;allies;$ L.Cru[i]ser $;;-1;world;;none;2;MOD_FALLING;none
+  0:53 K;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;042990f7b61f43da771b578c90f062a2;2;;Some Say;remington700_mp;441;MOD_RIFLE_BULLET;torso_upper
+  0:58 K;;0;allies;$ L.Cru[i]ser $;042990f7b61f43da771b578c90f062a2;2;;Some Say;remington700_mp;441;MOD_HEAD_SHOT;head
+  1:07 K;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;042990f7b61f43da771b578c90f062a2;2;;Some Say;remington700_mp;441;MOD_RIFLE_BULLET;torso_lower
+  1:08 D;042990f7b61f43da771b578c90f062a2;2;allies;Some Say;;0;allies;$ L.Cru[i]ser $;m40a3_mp;98;MOD_RIFLE_BULLET;left_arm_upper
+  1:14 K;042990f7b61f43da771b578c90f062a2;2;allies;Some Say;;0;;$ L.Cru[i]ser $;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  1:18 K;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;;Prof.No0B;remington700_mp;441;MOD_RIFLE_BULLET;torso_lower
+  1:23 K;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;042990f7b61f43da771b578c90f062a2;2;;Some Say;remington700_mp;441;MOD_RIFLE_BULLET;torso_upper
+  1:27 K;;0;allies;$ L.Cru[i]ser $;042990f7b61f43da771b578c90f062a2;2;;Some Say;remington700_mp;441;MOD_RIFLE_BULLET;torso_lower
+  1:30 Q;042990f7b61f43da771b578c90f062a2;2;Some Say
+  1:36 K;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;;0;;$ L.Cru[i]ser $;m40a3_mp;434;MOD_RIFLE_BULLET;torso_lower
+  1:46 K;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;;Prof.No0B;remington700_mp;441;MOD_RIFLE_BULLET;neck
+  1:53 D;;0;allies;$ L.Cru[i]ser $;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;remington700_mp;98;MOD_RIFLE_BULLET;left_leg_lower
+  1:53 K;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;;0;;$ L.Cru[i]ser $;m40a3_mp;441;MOD_RIFLE_BULLET;torso_upper
+  2:15 D;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;;0;allies;$ L.Cru[i]ser $;m40a3_mp;98;MOD_RIFLE_BULLET;right_leg_upper
+  2:35 D;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;;0;allies;$ L.Cru[i]ser $;m40a3_mp;98;MOD_RIFLE_BULLET;right_foot
+  2:35 Q;27939e49a734fd3c34735606e27d8236;1;Prof.No0B
+  2:40 ShutdownGame:
+  2:40 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\5\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\5\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:01 J;;0;$ L.Cru[i]ser $
+  0:43 J;27939e49a734fd3c34735606e27d8236;1;Rio
+  1:38 K;27939e49a734fd3c34735606e27d8236;1;allies;Prof.No0B;;0;;$ L.Cru[i]ser $;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  1:43 Q;27939e49a734fd3c34735606e27d8236;1;Prof.No0B
+  1:59 ShutdownGame:
+  1:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\WTF COD\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/avantgradepml\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty 4\mapname\mp_killhouse\protocol\6\shortversion\1.7\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\WTF COD\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\1\sv_pure\1\sv_voice\0\ui_maxclients\32
+  0:02 J;;0;$LandCru[i]ser$
+  2:39 J;7dbfe30a9e18ac34298662e8aace678f;1;Prof.No0B
+  2:53 D;7dbfe30a9e18ac34298662e8aace678f;1;axis;Prof.No0B;;0;axis;$LandCru[i]ser$;m40a3_mp;98;MOD_RIFLE_BULLET;right_leg_upper
+  3:11 K;7dbfe30a9e18ac34298662e8aace678f;1;axis;Prof.No0B;;0;;$LandCru[i]ser$;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  3:19 K;;0;axis;$LandCru[i]ser$;7dbfe30a9e18ac34298662e8aace678f;1;;Prof.No0B;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  3:28 K;;0;axis;$LandCru[i]ser$;7dbfe30a9e18ac34298662e8aace678f;1;;Prof.No0B;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  3:36 D;7dbfe30a9e18ac34298662e8aace678f;1;axis;Prof.No0B;;0;axis;$LandCru[i]ser$;m40a3_mp;28;MOD_RIFLE_BULLET;left_leg_lower
+  3:37 K;;0;axis;$LandCru[i]ser$;7dbfe30a9e18ac34298662e8aace678f;1;;Prof.No0B;m40a3_mp;441;MOD_HEAD_SHOT;head
+  3:50 K;7dbfe30a9e18ac34298662e8aace678f;1;axis;Prof.No0B;;0;;$LandCru[i]ser$;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  3:59 K;;0;axis;$LandCru[i]ser$;7dbfe30a9e18ac34298662e8aace678f;1;;Prof.No0B;m40a3_mp;441;MOD_RIFLE_BULLET;torso_upper
+  4:15 K;7dbfe30a9e18ac34298662e8aace678f;1;axis;Prof.No0B;;0;;$LandCru[i]ser$;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  4:23 D;;0;axis;$LandCru[i]ser$;7dbfe30a9e18ac34298662e8aace678f;1;axis;Prof.No0B;m40a3_mp;98;MOD_RIFLE_BULLET;right_arm_lower
+  4:39 K;;0;axis;$LandCru[i]ser$;7dbfe30a9e18ac34298662e8aace678f;1;;Prof.No0B;m40a3_mp;441;MOD_RIFLE_BULLET;torso_upper
+  4:51 K;7dbfe30a9e18ac34298662e8aace678f;1;axis;Prof.No0B;;0;;$LandCru[i]ser$;m40a3_mp;441;MOD_RIFLE_BULLET;torso_upper
+  4:59 K;;0;axis;$LandCru[i]ser$;7dbfe30a9e18ac34298662e8aace678f;1;;Prof.No0B;m40a3_mp;441;MOD_RIFLE_BULLET;torso_lower
+  5:00 Q;7dbfe30a9e18ac34298662e8aace678f;1;Prof.No0B
+  5:11 ShutdownGame:
+  5:11 ------------------------------------------------------------
